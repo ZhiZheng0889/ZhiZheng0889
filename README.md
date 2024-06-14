@@ -1,7 +1,7 @@
 # Hi there, I'm Zhi Zheng 👋
 
-![GitHub followers](https://img.shields.io/github/followers/your-github-username?style=social)
-![GitHub stars](https://img.shields.io/github/stars/your-github-username?style=social)
+![GitHub followers](https://img.shields.io/github/followers/zhizheng0889?style=social)
+![GitHub stars](https://img.shields.io/github/stars/zhizheng0889?style=social)
 
 ## About Me
 
@@ -41,7 +41,7 @@ Using genetic algorithms to develop maintenance schedules for minimizing overhea
 
 ## GitHub Stats
 
-![Zhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Zhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhizheng0889&show_icons=true&theme=radical)
 
 ---
 
