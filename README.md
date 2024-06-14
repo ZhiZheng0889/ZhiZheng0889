@@ -1,7 +1,9 @@
 # Hi there, I'm Zhi Zheng 👋
 
-![GitHub followers](https://img.shields.io/github/followers/zhizheng0889?style=social)
-![GitHub stars](https://img.shields.io/github/stars/zhizheng0889?style=social)
+<div align="center">
+  <img src="https://img.shields.io/github/followers/zhizheng0889?style=social" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/zhizheng0889?style=social" alt="GitHub stars">
+</div>
 
 ## About Me
 
@@ -36,12 +38,20 @@ Using genetic algorithms to develop maintenance schedules for minimizing overhea
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/zhi-zheng-337822120/)
-- [Email](mailto:zhizheng0889@floridapoly.edu)
+<div align="center">
+  <a href="https://www.linkedin.com/in/zhi-zheng-337822120/">
+    <img src="https://img.shields.io/badge/LinkedIn-Zhi%20Zheng-blue" alt="LinkedIn">
+  </a>
+  <a href="mailto:zhizheng0889@floridapoly.edu">
+    <img src="https://img.shields.io/badge/Email-zhizheng0889%40floridapoly.edu-red" alt="Email">
+  </a>
+</div>
 
 ## GitHub Stats
 
-![Zhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhizheng0889&show_icons=true&theme=radical)
+<div align="center">
+  ![Zhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhizheng0889&show_icons=true&theme=default&title_color=000000&icon_color=4C71F2&text_color=000000&bg_color=ffffff)
+</div>
 
 ---
 
