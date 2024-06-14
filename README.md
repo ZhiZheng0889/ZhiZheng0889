@@ -50,7 +50,7 @@ Using genetic algorithms to develop maintenance schedules to minimize overhead c
 ## GitHub Stats
 
 <div align="center">
-  ![Zhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhizheng0889&show_icons=true&theme=default&title_color=000000&icon_color=4C71F2&text_color=000000&bg_color=ffffff)
+  <img src="https://github-readme-stats.vercel.app/api?username=zhizheng0889&show_icons=true&theme=default&title_color=000000&icon_color=4C71F2&text_color=000000&bg_color=ffffff" alt="Zhi's GitHub stats">
 </div>
 
 ---
