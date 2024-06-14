@@ -5,7 +5,7 @@
 
 ## About Me
 
-I am currently a student at Florida Polytechnic University, working on various projects related to data visualization, machine learning, and database systems. I am passionate about leveraging technology to solve real-world problems and am always looking to learn new skills and tools.
+I am currently a graduate student at Florida Polytechnic University, working on various projects related to data visualization, machine learning, and database systems. I am passionate about leveraging technology to solve real-world problems and am always looking to learn new skills and tools.
 
 ## Interests
 
@@ -36,8 +36,8 @@ Using genetic algorithms to develop maintenance schedules for minimizing overhea
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/zhi-zheng-337822120/)
+- [Email](mailto:zhizheng0889@floridapoly.edu)
 
 ## GitHub Stats
 
