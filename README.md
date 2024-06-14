@@ -28,7 +28,7 @@ Developing a TMS with functionalities for fleet management, reporting, and analy
 Optimizing Warhammer 40K Space Marine Squad strategies using genetic algorithms.
 
 ### 🛡️ Moving Target Defense Systems
-Using genetic algorithms to develop maintenance schedules for minimizing overhead costs due to software updates and system reconfiguration.
+Using genetic algorithms to develop maintenance schedules to minimize overhead costs due to software updates and system reconfiguration.
 
 ## Skills
 
