@@ -27,9 +27,6 @@ Developing a TMS with functionalities for fleet management, reporting, and analy
 ### 🔄 Genetic Algorithm for Warhammer 40K Optimization
 Optimizing Warhammer 40K Space Marine Squad strategies using genetic algorithms.
 
-### 🛡️ Moving Target Defense Systems
-Using genetic algorithms to develop maintenance schedules to minimize overhead costs due to software updates and system reconfiguration.
-
 ## Skills
 
 - **Languages**: Python, R, SQL
