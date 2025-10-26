@@ -51,5 +51,3 @@ Optimizing Warhammer 40K Space Marine Squad strategies using genetic algorithms.
 </div>
 
 ---
-
-*This README was generated with ❤️ by Zhi Zheng*
