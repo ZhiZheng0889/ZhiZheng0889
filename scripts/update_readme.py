@@ -17,6 +17,17 @@ def get_username() -> str:
     return "zhizheng0889"
 
 
+def get_ignored_repos(username: str) -> set[str]:
+    # Always ignore the profile repo by default
+    default = {f"{username}/{username}".lower()}
+    extra = os.getenv("IGNORE_REPOS", "")
+    for part in extra.split(","):
+        part = part.strip()
+        if part:
+            default.add(part.lower())
+    return default
+
+
 def gh_api(url: str, token: str | None):
     headers = {"Accept": "application/vnd.github+json", "User-Agent": "profile-readme-updater"}
     if token:
@@ -57,12 +68,15 @@ def fetch_recent_contributions(username: str, token: str | None, limit: int = 5)
     }
 
     latest_by_repo: dict[str, str] = {}
+    ignored = get_ignored_repos(username)
     for ev in events:
         et = ev.get("type")
         if et not in interesting:
             continue
         repo = (ev.get("repo") or {}).get("name")  # owner/name
         if not repo:
+            continue
+        if repo.lower() in ignored:
             continue
         created = ev.get("created_at") or ""
         prev = latest_by_repo.get(repo)
