@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://img.shields.io/github/followers/zhizheng0889?style=social" alt="GitHub followers">
   <img src="https://img.shields.io/github/stars/zhizheng0889?style=social" alt="GitHub stars">
+  
 </div>
 
 ## About Me
@@ -21,10 +22,10 @@ I am currently a graduate student at Florida Polytechnic University, working on 
 ### 🦇 Bat Image Enhancement & Counting
 A dual-function machine learning model to enhance blurry bat images and accurately count the number of bats.
 
-### 🚗 Advanced Transportation Management System (TMS)
+### 🚚 Advanced Transportation Management System (TMS)
 Developing a TMS with functionalities for fleet management, reporting, and analytics using RShiny and ElephantSQL.
 
-### 🔄 Genetic Algorithm for Warhammer 40K Optimization
+### 🧬 Genetic Algorithm for Warhammer 40K Optimization
 Optimizing Warhammer 40K Space Marine Squad strategies using genetic algorithms.
 
 ## Recent Activity
@@ -61,3 +62,4 @@ Optimizing Warhammer 40K Space Marine Squad strategies using genetic algorithms.
 </div>
 
 ---
+
