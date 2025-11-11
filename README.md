@@ -75,3 +75,12 @@ Optimizing Warhammer 40K Space Marine Squad strategies using genetic algorithms.
 
 ---
 
+## Recent Activity
+
+<!--RECENT_REPOS:START-->
+- [GitPulse](https://github.com/ZhiZheng0889/GitPulse) - updated 2025-11-11 - a chrome extension to inform users of the activity of repo links before you click them.
+- [GitPulse](https://github.com/DavidKozdra/GitPulse) - updated 2025-11-10 stars: 3 - a chrome extension to inform users of the activity of repo links before you click them.
+- [Shiny_Data_Wrangler_-_Visualizer](https://github.com/ZhiZheng0889/Shiny_Data_Wrangler_-_Visualizer) - updated 2025-10-27
+- [FinalProjectDWEDA](https://github.com/CFVPXV/FinalProjectDWEDA) - updated 2025-10-26 stars: 1 - A final project for Data Wrangling and Exploratory Data Analysis about extracting and analyzing n...
+- [FinalProjectDWEDA](https://github.com/ZhiZheng0889/FinalProjectDWEDA) - updated 2025-10-26 stars: 1 - A final project for Data Wrangling and Exploratory Data Analysis about extracting and analyzing n...
+<!--RECENT_REPOS:END-->
