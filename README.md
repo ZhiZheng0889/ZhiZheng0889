@@ -27,6 +27,11 @@ Developing a TMS with functionalities for fleet management, reporting, and analy
 ### 🔄 Genetic Algorithm for Warhammer 40K Optimization
 Optimizing Warhammer 40K Space Marine Squad strategies using genetic algorithms.
 
+## Recent Activity
+
+<!--RECENT_REPOS:START-->
+<!--RECENT_REPOS:END-->
+
 ## Skills
 
 - **Languages**: Python, R, SQL
