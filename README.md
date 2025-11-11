@@ -30,6 +30,11 @@ Optimizing Warhammer 40K Space Marine Squad strategies using genetic algorithms.
 ## Recent Activity
 
 <!--RECENT_REPOS:START-->
+- [ZhiZheng0889](https://github.com/ZhiZheng0889/ZhiZheng0889) — updated 2025-11-11 — Config files for my GitHub profile.
+- [Shiny_Data_Wrangler_-_Visualizer](https://github.com/ZhiZheng0889/Shiny_Data_Wrangler_-_Visualizer) — updated 2025-10-27
+- [IVE](https://github.com/ZhiZheng0889/IVE) — updated 2025-10-22
+- [Advanced-Transportation-Management-System-TMS-](https://github.com/ZhiZheng0889/Advanced-Transportation-Management-System-TMS-) — updated 2025-10-22
+- [Pokemon-Data-Shiny-App](https://github.com/ZhiZheng0889/Pokemon-Data-Shiny-App) — updated 2025-07-22
 <!--RECENT_REPOS:END-->
 
 ## Skills
