@@ -78,7 +78,7 @@ Optimizing Warhammer 40K Space Marine Squad strategies using genetic algorithms.
 ## Recent Activity
 
 <!--RECENT_REPOS:START-->
+- [GitPulse](https://github.com/DavidKozdra/GitPulse) - updated 2025-12-15 stars: 3 - a chrome extension to inform users of the activity of repo links before you click them.
 - [GitPulse](https://github.com/ZhiZheng0889/GitPulse) - updated 2025-12-15 - a chrome extension to inform users of the activity of repo links before you click them.
-- [GitPulse](https://github.com/DavidKozdra/GitPulse) - updated 2025-12-08 stars: 3 - a chrome extension to inform users of the activity of repo links before you click them.
 - [Tax-Accounting-](https://github.com/ZhiZheng0889/Tax-Accounting-) - updated 2025-11-23
 <!--RECENT_REPOS:END-->
