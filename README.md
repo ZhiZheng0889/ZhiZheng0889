@@ -78,6 +78,7 @@ Optimizing Warhammer 40K Space Marine Squad strategies using genetic algorithms.
 ## Recent Activity
 
 <!--RECENT_REPOS:START-->
+- [web](https://github.com/algowars/web) - updated 2026-01-02
 - [Bleach-WarmSnow-Fanfic](https://github.com/ZhiZheng0889/Bleach-WarmSnow-Fanfic) - updated 2026-01-01
 - [GitPulse](https://github.com/DavidKozdra/GitPulse) - updated 2025-12-30 stars: 3 - a chrome extension to inform users of the activity of repo links before you click them.
 - [GitPulse](https://github.com/ZhiZheng0889/GitPulse) - updated 2025-12-29 - a chrome extension to inform users of the activity of repo links before you click them.
