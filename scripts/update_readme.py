@@ -2,6 +2,8 @@ import os
 import json
 from datetime import datetime, timezone
 from urllib.request import Request, urlopen
+from urllib.error import HTTPError, URLError
+import time
 
 
 def get_username() -> str:
@@ -28,14 +30,40 @@ def get_ignored_repos(username: str) -> set[str]:
     return default
 
 
-def gh_api(url: str, token: str | None):
-    headers = {"Accept": "application/vnd.github+json", "User-Agent": "profile-readme-updater"}
+def gh_api(url: str, token: str | None, *, retries: int = 4, timeout_s: int = 20):
+    headers = {
+        "Accept": "application/vnd.github+json",
+        "User-Agent": "profile-readme-updater",
+        "X-GitHub-Api-Version": "2022-11-28",
+    }
     if token:
         headers["Authorization"] = f"Bearer {token}"
-    req = Request(url, headers=headers)
-    with urlopen(req) as resp:
-        data = resp.read()
-        return json.loads(data.decode("utf-8"))
+
+    last_err: Exception | None = None
+    for attempt in range(retries + 1):
+        try:
+            req = Request(url, headers=headers)
+            with urlopen(req, timeout=timeout_s) as resp:
+                data = resp.read()
+                return json.loads(data.decode("utf-8"))
+        except HTTPError as e:
+            # Retry transient server-side failures.
+            if e.code in {500, 502, 503, 504} and attempt < retries:
+                time.sleep(1.5 ** attempt)
+                last_err = e
+                continue
+            raise
+        except URLError as e:
+            # Retry transient network issues.
+            if attempt < retries:
+                time.sleep(1.5 ** attempt)
+                last_err = e
+                continue
+            raise
+
+    if last_err:
+        raise last_err
+    raise RuntimeError("gh_api failed unexpectedly")
 
 
 def fetch_recent_repos(username: str, token: str | None, limit: int = 5) -> list[dict]:

@@ -14,8 +14,13 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-profile-readme
+  cancel-in-progress: true
+
 jobs:
   update:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -39,7 +44,21 @@ jobs:
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add README.md
             git commit -m "chore: update profile README (auto)"
-            git push
+
+            # Avoid push failures from transient GitHub 5xx/internal errors.
+            # Also rebase in case another run landed a commit.
+            git fetch origin
+            git pull --rebase origin "${GITHUB_REF_NAME:-main}" || true
+
+            for i in 1 2 3 4 5; do
+              if git push; then
+                exit 0
+              fi
+              echo "git push failed (attempt $i/5); retrying..."
+              sleep $((i*i))
+            done
+            echo "git push failed after retries"
+            exit 1
           else
             echo "No changes to commit"
           fi
