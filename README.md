@@ -78,9 +78,9 @@ Optimizing Warhammer 40K Space Marine Squad strategies using genetic algorithms.
 ## Recent Activity
 
 <!--RECENT_REPOS:START-->
-- [GitPulse](https://github.com/ZhiZheng0889/GitPulse) - updated 2025-11-11 - a chrome extension to inform users of the activity of repo links before you click them.
-- [GitPulse](https://github.com/DavidKozdra/GitPulse) - updated 2025-11-10 stars: 3 - a chrome extension to inform users of the activity of repo links before you click them.
-- [Shiny_Data_Wrangler_-_Visualizer](https://github.com/ZhiZheng0889/Shiny_Data_Wrangler_-_Visualizer) - updated 2025-10-27
-- [FinalProjectDWEDA](https://github.com/CFVPXV/FinalProjectDWEDA) - updated 2025-10-26 stars: 1 - A final project for Data Wrangling and Exploratory Data Analysis about extracting and analyzing n...
-- [FinalProjectDWEDA](https://github.com/ZhiZheng0889/FinalProjectDWEDA) - updated 2025-10-26 stars: 1 - A final project for Data Wrangling and Exploratory Data Analysis about extracting and analyzing n...
+- [Tour-of-Heroes](https://github.com/ZhiZheng0889/Tour-of-Heroes) - updated 2026-02-02
+- [Angular-Basics](https://github.com/ZhiZheng0889/Angular-Basics) - updated 2026-02-02
+- [Bleach-WarmSnow-Fanfic](https://github.com/ZhiZheng0889/Bleach-WarmSnow-Fanfic) - updated 2026-01-20
+- [GitPulse](https://github.com/ZhiZheng0889/GitPulse) - updated 2026-01-13 - a chrome extension to inform users of the activity of repo links before you click them.
+- [web](https://github.com/algowars/web) - updated 2026-02-02 - Website for Algowars. Built with Next.js, React Query, Tailwindcss, and Shadcn.
 <!--RECENT_REPOS:END-->
