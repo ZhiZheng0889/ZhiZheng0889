@@ -2,7 +2,7 @@ name: Update Profile README
 
 on:
   schedule:
-    - cron: '0 * * * *'  # hourly
+    - cron: '0 0 * * *'  # daily (00:00 UTC)
   workflow_dispatch:
   repository_dispatch:
     types: [profile-update]
