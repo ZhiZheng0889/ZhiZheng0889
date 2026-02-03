@@ -1,8 +1,8 @@
 # Hi there, I'm Zhi Zheng
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/zhizheng0889?style=social" alt="GitHub followers">
-  <img src="https://img.shields.io/github/stars/zhizheng0889?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/followers/ZhiZheng0889?style=social" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/ZhiZheng0889?style=social" alt="GitHub stars">
 </div>
 
 ## About Me
@@ -70,7 +70,7 @@ Optimizing Warhammer 40K Space Marine Squad strategies using genetic algorithms.
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhizheng0889&show_icons=true&theme=transparent&hide_border=true" alt="Zhi's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZhiZheng0889&show_icons=true&theme=transparent&hide_border=true" alt="Zhi's GitHub stats">
 </div>
 
 ---
