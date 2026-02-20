@@ -79,5 +79,4 @@ Optimizing Warhammer 40K Space Marine Squad strategies using genetic algorithms.
 
 <!--RECENT_REPOS:START-->
 - [Angular-Basics](https://github.com/ZhiZheng0889/Angular-Basics) - updated 2026-02-02
-- [Bleach-WarmSnow-Fanfic](https://github.com/ZhiZheng0889/Bleach-WarmSnow-Fanfic) - updated 2026-01-20
 <!--RECENT_REPOS:END-->
