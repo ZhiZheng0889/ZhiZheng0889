@@ -78,5 +78,6 @@ Optimizing Warhammer 40K Space Marine Squad strategies using genetic algorithms.
 ## Recent Activity
 
 <!--RECENT_REPOS:START-->
+- [web](https://github.com/algowars/web) - updated 2026-02-28 - Website for Algowars. Built with Next.js, React Query, Tailwindcss, and Shadcn.
 - [Angular-Basics](https://github.com/ZhiZheng0889/Angular-Basics) - updated 2026-02-02
 <!--RECENT_REPOS:END-->
