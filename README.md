@@ -78,6 +78,6 @@ Optimizing Warhammer 40K Space Marine Squad strategies using genetic algorithms.
 ## Recent Activity
 
 <!--RECENT_REPOS:START-->
-- [ai-mad-lib-generator](https://github.com/ai-creators/ai-mad-lib-generator) - updated 2026-03-02 stars: 2 - Ai MadLib generator based on a prompt. Project for ai-wranglers hackathon.
-- [web](https://github.com/algowars/web) - updated 2026-02-28 - Website for Algowars. Built with Next.js, React Query, Tailwindcss, and Shadcn.
+- [ai-mad-lib-generator](https://github.com/ai-creators/ai-mad-lib-generator) - updated 2026-03-08 stars: 2 - Ai MadLib generator based on a prompt. Project for ai-wranglers hackathon.
+- [web](https://github.com/algowars/web) - updated 2026-03-08 - Website for Algowars. Built with Next.js, React Query, Tailwindcss, and Shadcn.
 <!--RECENT_REPOS:END-->
