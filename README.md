@@ -78,5 +78,9 @@ Optimizing Warhammer 40K Space Marine Squad strategies using genetic algorithms.
 ## Recent Activity
 
 <!--RECENT_REPOS:START-->
-- [ai-mad-lib-generator](https://github.com/ai-creators/ai-mad-lib-generator) - updated 2026-04-02 stars: 2 - Ai MadLib generator based on a prompt. Project for ai-wranglers hackathon.
+- [ZhiZheng0889](https://github.com/ZhiZheng0889/ZhiZheng0889) - updated 2026-04-03 - Config files for my GitHub profile.
+- [Angular-Basics](https://github.com/ZhiZheng0889/Angular-Basics) - updated 2026-02-02
+- [Bleach-WarmSnow-Fanfic](https://github.com/ZhiZheng0889/Bleach-WarmSnow-Fanfic) - updated 2026-01-20
+- [GitPulse](https://github.com/ZhiZheng0889/GitPulse) - updated 2026-01-13 - a chrome extension to inform users of the activity of repo links before you click them.
+- [Tax-Accounting-](https://github.com/ZhiZheng0889/Tax-Accounting-) - updated 2025-12-28
 <!--RECENT_REPOS:END-->
