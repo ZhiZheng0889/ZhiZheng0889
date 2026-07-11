@@ -80,5 +80,4 @@ Optimizing Warhammer 40K Space Marine Squad strategies using genetic algorithms.
 <!--RECENT_REPOS:START-->
 - [AI-Adlib-Data-Analysis](https://github.com/ZhiZheng0889/AI-Adlib-Data-Analysis) - updated 2026-06-22
 - [ai-madlib-generator-v2](https://github.com/ai-creators/ai-madlib-generator-v2) - updated 2026-06-15
-- [ai-mad-lib-generator](https://github.com/ai-creators/ai-mad-lib-generator) - updated 2026-06-10 stars: 2 - Ai MadLib generator based on a prompt. Project for ai-wranglers hackathon.
 <!--RECENT_REPOS:END-->
