@@ -79,5 +79,4 @@ Optimizing Warhammer 40K Space Marine Squad strategies using genetic algorithms.
 
 <!--RECENT_REPOS:START-->
 - [Reservation_System](https://github.com/ZhiZheng0889/Reservation_System) - updated 2026-07-21
-- [AI-Adlib-Data-Analysis](https://github.com/ZhiZheng0889/AI-Adlib-Data-Analysis) - updated 2026-06-22
 <!--RECENT_REPOS:END-->
