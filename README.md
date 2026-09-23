@@ -58,7 +58,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/zhi-zheng-337822120/) 
     <img src="https://img.shields.io/badge/LinkedIn-Zhi%20Zheng-blue" alt="LinkedIn">
   </a>
   <a href="mailto:zhizheng0889@floridapoly.edu">
-    <img src="https://img.shields.io/badge/Email-zhizheng0889%40floridapoly.edu-red" alt="Email">
+    <img src="https://img.shields.io/badge/Email-zhizheng33782@gmail.com-red" alt="Email">
   </a>
 </div>
 
