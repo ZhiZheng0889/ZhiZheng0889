@@ -18,6 +18,34 @@ I am a graduate student at Florida Polytechnic University. My projects explore i
 - **Database Systems**: Designing and implementing efficient database solutions.
 - **Project Management**: Focusing on resource management, risk management, and project execution.
 
+## Project Map
+
+How my technical interests connect to my projects:
+
+```mermaid
+flowchart TD
+    profile["Zhi Zheng · Projects"]
+    profile --> ml["Machine Learning & AI"]
+    profile --> data["Data Visualization & Analysis"]
+    profile --> systems["Database Systems & Applications"]
+
+    ml --> bats["Bat Image Enhancement & Counting"]
+    ml --> optimization["Warhammer 40K Optimization"]
+    data --> shiny["Shiny Data Wrangler & Visualizer"]
+    data --> eda["Data Wrangling & Exploratory Analysis"]
+    systems --> tms["Transportation Management System"]
+
+    classDef root fill:#172554,stroke:#60a5fa,color:#ffffff,stroke-width:2px;
+    classDef learning fill:#164e63,stroke:#22d3ee,color:#ffffff;
+    classDef visualization fill:#4c1d95,stroke:#c4b5fd,color:#ffffff;
+    classDef application fill:#14532d,stroke:#4ade80,color:#ffffff;
+
+    class profile root;
+    class ml,bats,optimization learning;
+    class data,shiny,eda visualization;
+    class systems,tms application;
+```
+
 ## Project Highlights
 
 ### Bat Image Enhancement & Counting
