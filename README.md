@@ -1,5 +1,7 @@
 # Hi there, I'm Zhi Zheng
 
+I build projects in machine learning, data visualization, and database systems.
+
 <div align="center">
   <img src="https://img.shields.io/github/followers/ZhiZheng0889?style=social" alt="GitHub followers">
   <img src="https://img.shields.io/github/stars/ZhiZheng0889?style=social" alt="GitHub stars">
@@ -7,27 +9,36 @@
 
 ## About Me
 
-I am currently a graduate student at Florida Polytechnic University, working on various projects related to data visualization, machine learning, and database systems. I am passionate about leveraging technology to solve real-world problems and am always looking to learn new skills and tools.
+I am a graduate student at Florida Polytechnic University. My projects explore image enhancement, transportation management, and optimization. I enjoy turning data into useful insights and building tools that solve practical problems.
 
 ## Interests
 
 - **Machine Learning & AI**: Developing models for image enhancement and object detection.
-- **Data Visualization**: Creating compelling visual narratives with data.
+- **Data Visualization**: Building interactive tools to explore and communicate data.
 - **Database Systems**: Designing and implementing efficient database solutions.
 - **Project Management**: Focusing on resource management, risk management, and project execution.
 
-## Projects
+## Project Highlights
 
 ### Bat Image Enhancement & Counting
-A dual-function machine learning model to enhance blurry bat images and accurately count the number of bats.
+
+A machine learning project combining blurry image enhancement with bat counting.
 
 ### Advanced Transportation Management System (TMS)
-Developing a TMS with functionalities for fleet management, reporting, and analytics using RShiny and ElephantSQL.
+
+A transportation management system using R Shiny and ElephantSQL for fleet management, reporting, and analytics.
+
+[Explore the repository](https://github.com/ZhiZheng0889/Advanced-Transportation-Management-System-TMS-)
 
 ### Genetic Algorithm for Warhammer 40K Optimization
-Optimizing Warhammer 40K Space Marine Squad strategies using genetic algorithms.
+
+An optimization project using genetic algorithms to explore Warhammer 40K Space Marine squad strategies.
 
 ## Featured Projects
+
+- [GitPulse](https://github.com/ZhiZheng0889/GitPulse)
+- [Shiny Data Wrangler & Visualizer](https://github.com/ZhiZheng0889/Shiny_Data_Wrangler_-_Visualizer)
+- [Data Wrangling & Exploratory Data Analysis Final Project](https://github.com/ZhiZheng0889/FinalProjectDWEDA)
 
 <div align="center">
   <a href="https://github.com/ZhiZheng0889/GitPulse">
@@ -50,13 +61,18 @@ Optimizing Warhammer 40K Space Marine Squad strategies using genetic algorithms.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZhiZheng0889&theme=github-compact&hide_border=true" alt="Contribution activity graph" />
 </div>
 
-## Skills
+## Technical Skills
 
-- **Languages**: Python, R, SQL
-- **Tools**: RStudio, Power BI, Git, Docker
-- **Frameworks**: TensorFlow, Keras, Flask
+| Area | Technologies |
+| --- | --- |
+| Languages | Python, R, SQL |
+| Machine Learning | TensorFlow, Keras |
+| Applications & Visualization | Flask, R Shiny, Power BI |
+| Development Tools | RStudio, Git, Docker |
 
 ## Contact
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/zhi-zheng-337822120/) or [send me an email](mailto:zhizheng0889@floridapoly.edu).
 
 <div align="center">
   <a href="https://www.linkedin.com/in/zhi-zheng-337822120/">
@@ -76,6 +92,8 @@ Optimizing Warhammer 40K Space Marine Squad strategies using genetic algorithms.
 ---
 
 ## Recent Activity
+
+Updated automatically each day from my public GitHub activity.
 
 <!--RECENT_REPOS:START-->
 - [FinalProjectDWEDA](https://github.com/ZhiZheng0889/FinalProjectDWEDA) - updated 2026-09-23 stars: 1 - A final project for Data Wrangling and Exploratory Data Analysis about extracting and analyzing n...
