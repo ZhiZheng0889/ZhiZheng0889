@@ -72,7 +72,7 @@ An optimization project using genetic algorithms to explore Warhammer 40K Space 
 
 ## Contact
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/zhi-zheng-337822120/) or [send me an email](mailto:zhizheng0889@floridapoly.edu).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/zhi-zheng-337822120/) or [send me an email](mailto:zhizheng33782@gmail.com).
 
 <div align="center">
   <a href="https://www.linkedin.com/in/zhi-zheng-337822120/">
