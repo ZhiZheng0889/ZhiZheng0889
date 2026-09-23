@@ -78,5 +78,9 @@ Optimizing Warhammer 40K Space Marine Squad strategies using genetic algorithms.
 ## Recent Activity
 
 <!--RECENT_REPOS:START-->
+- [FinalProjectDWEDA](https://github.com/ZhiZheng0889/FinalProjectDWEDA) - updated 2026-09-23 stars: 1 - A final project for Data Wrangling and Exploratory Data Analysis about extracting and analyzing n...
+- [Advanced-Transportation-Management-System-TMS-](https://github.com/ZhiZheng0889/Advanced-Transportation-Management-System-TMS-) - updated 2026-09-23
+- [Simulation-of-Fraud-Detection-in-Self-Checkout-Systems](https://github.com/ZhiZheng0889/Simulation-of-Fraud-Detection-in-Self-Checkout-Systems) - updated 2026-09-23
+- [Data_Mining_Project](https://github.com/ZhiZheng0889/Data_Mining_Project) - updated 2026-09-23
 - [Reservation_System](https://github.com/ZhiZheng0889/Reservation_System) - updated 2026-09-07
 <!--RECENT_REPOS:END-->
