@@ -96,9 +96,9 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/zhi-zheng-337822120/) 
 Updated automatically each day from my public GitHub activity.
 
 <!--RECENT_REPOS:START-->
-- [FinalProjectDWEDA](https://github.com/ZhiZheng0889/FinalProjectDWEDA) - updated 2026-09-23 stars: 1 - A final project for Data Wrangling and Exploratory Data Analysis about extracting and analyzing n...
-- [Advanced-Transportation-Management-System-TMS-](https://github.com/ZhiZheng0889/Advanced-Transportation-Management-System-TMS-) - updated 2026-09-23
-- [Simulation-of-Fraud-Detection-in-Self-Checkout-Systems](https://github.com/ZhiZheng0889/Simulation-of-Fraud-Detection-in-Self-Checkout-Systems) - updated 2026-09-23
-- [Data_Mining_Project](https://github.com/ZhiZheng0889/Data_Mining_Project) - updated 2026-09-23
-- [Reservation_System](https://github.com/ZhiZheng0889/Reservation_System) - updated 2026-09-07
+- [AI-Adlib-Data-Analysis](https://github.com/ZhiZheng0889/AI-Adlib-Data-Analysis) - updated 2026-09-23
+- [Tax-Accounting-](https://github.com/ZhiZheng0889/Tax-Accounting-) - updated 2026-09-23
+- [GitPulse](https://github.com/ZhiZheng0889/GitPulse) - updated 2026-09-23 - a chrome extension to inform users of the activity of repo links before you click them.
+- [Zhi_Zheng_final_project](https://github.com/ZhiZheng0889/Zhi_Zheng_final_project) - updated 2026-09-23 - Data Visualization and Reproducible Research final project - Zhi Zheng
+- [Pokemon-Data-Shiny-App](https://github.com/ZhiZheng0889/Pokemon-Data-Shiny-App) - updated 2026-09-23
 <!--RECENT_REPOS:END-->
