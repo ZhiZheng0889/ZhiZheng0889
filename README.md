@@ -40,27 +40,6 @@ An optimization project using genetic algorithms to explore Warhammer 40K Space 
 - [Shiny Data Wrangler & Visualizer](https://github.com/ZhiZheng0889/Shiny_Data_Wrangler_-_Visualizer)
 - [Data Wrangling & Exploratory Data Analysis Final Project](https://github.com/ZhiZheng0889/FinalProjectDWEDA)
 
-<div align="center">
-  <a href="https://github.com/ZhiZheng0889/GitPulse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZhiZheng0889&repo=GitPulse&theme=transparent&hide_border=true" alt="GitPulse" />
-  </a>
-  <a href="https://github.com/ZhiZheng0889/Shiny_Data_Wrangler_-_Visualizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZhiZheng0889&repo=Shiny_Data_Wrangler_-_Visualizer&theme=transparent&hide_border=true" alt="Shiny Data Wrangler & Visualizer" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ZhiZheng0889/FinalProjectDWEDA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZhiZheng0889&repo=FinalProjectDWEDA&theme=transparent&hide_border=true" alt="FinalProjectDWEDA" />
-  </a>
-</div>
-
-## Activity Overview
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZhiZheng0889&theme=github-compact&hide_border=true" alt="Contribution activity graph" />
-</div>
-
 ## Technical Skills
 
 | Area | Technologies |
@@ -83,11 +62,9 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/zhi-zheng-337822120/) 
   </a>
 </div>
 
-## GitHub Stats
+## GitHub Profile
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZhiZheng0889&show_icons=true&theme=transparent&hide_border=true" alt="Zhi's GitHub stats">
-</div>
+[View my repositories and contribution history on GitHub](https://github.com/ZhiZheng0889).
 
 ---
 
