@@ -90,10 +90,6 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/zhi-zheng-337822120/) 
   </a>
 </div>
 
-## GitHub Profile
-
-[View my repositories and contribution history on GitHub](https://github.com/ZhiZheng0889).
-
 ---
 
 ## Recent Activity
