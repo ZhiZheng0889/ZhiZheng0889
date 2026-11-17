@@ -97,5 +97,6 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/zhi-zheng-337822120/) 
 Updated automatically each day from my public GitHub activity.
 
 <!--RECENT_REPOS:START-->
-- [server](https://github.com/Stack-Duel/server) - updated 2026-11-15 stars: 2
+- [ai-madlib-generator-v2](https://github.com/ai-creators/ai-madlib-generator-v2) - updated 2026-09-02
+- [server](https://github.com/Stack-Duel/server) - updated 2026-11-16 stars: 2
 <!--RECENT_REPOS:END-->
